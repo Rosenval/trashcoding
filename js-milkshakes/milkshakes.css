@@ -1,0 +1,33 @@
+body{
+    margin: 2%;
+    background-color: #fab2d6;
+    font-family: monospace;
+}
+#image{
+    line-height:450px;
+    width: 575px;
+    height: 450px;
+    border: 10px dotted #eb4d61;
+    margin:0 auto;
+    background-color: white;
+    background-image: url('');
+    background-repeat: no-repeat;
+    color: #e7738a;
+    text-align: center;
+    background-size: 100%;
+    margin-bottom:25px;
+    font-size: 150%;
+}
+.milkshake{
+    width:10%;
+    margin-left:17%;
+    border: transparent;
+    border-radius: 2rem;
+}
+img{
+    width: 100%;
+}
+
+a {
+    color: blue;
+}
